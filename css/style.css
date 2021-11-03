@@ -1,0 +1,12 @@
+#p_a {
+    background-color: darkblue;
+    font-size: large;
+    color: white;
+    cursor: pointer;
+}
+
+#p_a .p_a_h :hover {
+    background-color: white;
+    color: #000;
+    font-size: x-large;
+}
